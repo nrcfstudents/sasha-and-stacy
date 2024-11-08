@@ -1,11 +1,31 @@
-body{color:blue;
+body{
+color:blue;
 font-family: Arial;
 }
 
 p{text-align:left;}
 
-h1{text-align: center;
-color: pink;}
-.cat{text-align:left;}
-h2{color:gold;}
-.dog{text-align: center;}
+h1{
+text-align: center;
+color: pink;
+}
+.cat{
+text-align:left;
+}
+h2{
+color:gold;
+}
+.dog{
+text-align: center;
+}
+table,th,td{
+border:1px solid black;
+
+}
+nav{
+text-align:right;
+justify-content:center;
+padding:1;
+margin:1;
+font-weight:bold;
+}
